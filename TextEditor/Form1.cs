@@ -4,6 +4,8 @@ namespace TextEditor
     {
         public Main_Form()
         {
+         //test 
+         
             InitializeComponent();
         }
 
