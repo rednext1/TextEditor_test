@@ -5,7 +5,6 @@ namespace TextEditor
         public Main_Form()
         {
             InitializeComponent();
-            //ssss
         }
 
         private void Main_Form_FormClosing(object sender, FormClosingEventArgs e)
