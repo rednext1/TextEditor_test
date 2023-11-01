@@ -11,6 +11,7 @@ namespace TextEditor
             InitializeComponent();
 
           // Супер пупер код
+          // Супер пупер код 2
         }
 
         private void Main_Form_FormClosing(object sender, FormClosingEventArgs e)
