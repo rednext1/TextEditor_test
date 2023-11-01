@@ -10,14 +10,7 @@ namespace TextEditor
          
             InitializeComponent();
 
-            //555
-            //666
-            ///45
-            ///77777
-            ///888888
-            //////99999999
-            //////100000
-            //////11111
+          // Супер пупер код
         }
 
         private void Main_Form_FormClosing(object sender, FormClosingEventArgs e)
