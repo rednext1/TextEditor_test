@@ -9,7 +9,12 @@ namespace TextEditor
 
          
             InitializeComponent();
-            
+
+            //555
+            //666
+            ///45
+            ///77777
+
         }
 
         private void Main_Form_FormClosing(object sender, FormClosingEventArgs e)
