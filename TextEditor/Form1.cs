@@ -10,6 +10,8 @@ namespace TextEditor
          
             InitializeComponent();
 
+          // Супер пупер код
+          // Супер пупер код 2
             //555
             //666
             ///45
