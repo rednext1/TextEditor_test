@@ -16,7 +16,6 @@ namespace TextEditor
             ///77777
             ///888888
             //////99999999
-
         }
 
         private void Main_Form_FormClosing(object sender, FormClosingEventArgs e)
